@@ -32,7 +32,7 @@ augustrush.say_hi()
 ```
 
 
-![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
+<div align=center><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" /></div>
 <!--
 **AugustRush923/AugustRush923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
